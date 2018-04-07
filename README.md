@@ -10,7 +10,8 @@
 
 * **Free Code Camp(2017-2017)**
 
-  Front End Development [link](https://www.freecodecamp.org/waystogo/front-end-certification) 
+  Front End Development 
+  :mag_right:[link](https://www.freecodecamp.org/waystogo/front-end-certification) 
 
 * **SRM University (2013-2017)**
 
@@ -27,8 +28,8 @@
 
     *analyst*
 
-    * Certificate of appreciation(https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
-    * worked on various tools(Adobe-AEM,SAP-Hybris)
+    * Meritious performance :mag_right:[link](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
+    * Worked on various tools(Adobe-AEM,SAP-Hybris)
     * Designing, developing and deploying applications in J2EE technologies.
     * Developed web applications using Java and Spring framework
     * Developed user interface(UI) screens using JSP, CSS, JavaScript Servlets.
