@@ -1,10 +1,18 @@
 # Animireddy Shiva Prasad Reddy
 
-**E-mail:** animireddyshiva@gmail.com 
+## Contact
 
-**Codepen:** https://codepen.io/readytohackk/ 
+ * E-mail: animireddyshiva@gmail.com
+ * Codepen: [readytohackk](https://codepen.io/readytohackk)
+ * Linkedin: [animireddyshiva](https://www.linkedin.com/in/animireddyshiva/)
+ * Github:[WaysToGo](https://github.com/WaysToGo)
+ * steam:[WaysToGo][https://steamcommunity.com/id/readytohackk/]
 
-**Linkedin** https://www.linkedin.com/in/animireddyshiva/
+
+## Interests
+
+*   Software Development using the latest edge of the technologies
+*   Intrested in automating tasks
 
 ## Education 👨‍🎓
 
@@ -25,7 +33,7 @@
 
 * **Capgemini (06/2017 - Present)**
 
-    *analyst*
+    Analyst
 
     * Meritorious performance [link](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
     * Worked on various tools(Adobe-AEM,SAP-Hybris)
