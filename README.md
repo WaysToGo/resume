@@ -5,14 +5,15 @@
  * E-mail: animireddyshiva@gmail.com
  * Codepen: [readytohackk](https://codepen.io/readytohackk)
  * Linkedin: [animireddyshiva](https://www.linkedin.com/in/animireddyshiva/)
- * Github:[WaysToGo](https://github.com/WaysToGo)
- * steam:[WaysToGo][https://steamcommunity.com/id/readytohackk/]
+ * Github: [WaysToGo](https://github.com/WaysToGo)
+ * steam: [WaysToGo](https://steamcommunity.com/id/readytohackk/)
 
 
-## Interests
+<!-- ## Interests
 
 *   Software Development using the latest edge of the technologies
 *   Intrested in automating tasks
+*    -->
 
 ## Education 👨‍🎓
 
@@ -35,7 +36,7 @@
 
     Analyst
 
-    * Meritorious performance [link](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
+    * Meritorious performance certificate of appriciation [link](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
     * Worked on various tools(Adobe-AEM,SAP-Hybris)
     * Designing, developing and deploying applications in J2EE technologies.
     * Developed web applications using Java and Spring framework
