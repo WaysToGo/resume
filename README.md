@@ -1,23 +1,23 @@
 # Animireddy Shiva Prasad Reddy
 
-:email:**E-mail:** animireddyshiva@gmail.com 
+**E-mail:** animireddyshiva@gmail.com 
 
-**codepen:** https://codepen.io/readytohackk/ 
+**Codepen:** https://codepen.io/readytohackk/ 
 
-**linkedin** https://www.linkedin.com/in/animireddyshiva/
+**Linkedin** https://www.linkedin.com/in/animireddyshiva/
 
 ## Education 👨‍🎓
 
 * **Free Code Camp(2017-2017)**
 
-  Front End Development
-* [freecodecamp front end developer Certificate](https://www.freecodecamp.org/waystogo/front-end-certification) 
+  Front End Development [link](https://www.freecodecamp.org/waystogo/front-end-certification) 
 
 * **SRM University (2013-2017)**
 
-  Bachelor of Technology in Computer Science Engineering
-  Jun 2013 - May 2017
-  CGPA: 8.7 out of 10
+- Bachelor of Technology in Computer Science Engineering 
+- Jun 2013 - May 2017
+- CGPA: 8.7 out of 10
+
 * **SR Junior College (2011-2013)**
 * **Spectra Global Concept School (2010-2011)**
 
