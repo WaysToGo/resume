@@ -10,8 +10,8 @@
 
 * **Free Code Camp(2017-2017)**
 
- Front End Development
-* :point_right:[freecodecamp front end developer Certificate](https://www.freecodecamp.org/waystogo/front-end-certification) 
+  Front End Development
+* [freecodecamp front end developer Certificate](https://www.freecodecamp.org/waystogo/front-end-certification) 
 
 * **SRM University (2013-2017)**
 
