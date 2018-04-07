@@ -35,7 +35,7 @@
 
 
 
-## Skills
+## Skills: :space_invader:
 
 * **Web development** - HTML, CSS, SASS/LESS, Vanlla JS,Angular/ReactJS, Twitter Bootstrap, Material Design, CSS variables,BEM,NPM,Parcel JS 
 * **Database** - MySQL, MongoDB(beginner)
