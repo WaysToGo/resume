@@ -14,9 +14,9 @@
 
 * **SRM University (2013-2017)**
 
-- Bachelor of Technology in Computer Science Engineering 
-- Jun 2013 - May 2017
-- CGPA: 8.7 out of 10
+  * Bachelor of Technology in Computer Science Engineering 
+  * Jun 2013 - May 2017
+  * CGPA: 8.7 out of 10
 
 * **SR Junior College (2011-2013)**
 * **Spectra Global Concept School (2010-2011)**
@@ -27,7 +27,7 @@
 
     *analyst*
 
-    * [certificate of appreciation](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
+    * Certificate of appreciation(https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
     * worked on various tools(Adobe-AEM,SAP-Hybris)
     * Designing, developing and deploying applications in J2EE technologies.
     * Developed web applications using Java and Spring framework
