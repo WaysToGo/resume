@@ -41,7 +41,7 @@
 
 * **Capgemini (06/2017 - Present)**
 
-    Analyst
+    
 
     * Meritorious performance certificate of appriciation [link](https://drive.google.com/file/d/1xXew7R6pRY7HOwYka6hhZFCUkPZmv1D_/view?usp=sharing)
     * Worked on various tools(Adobe-AEM,SAP-Hybris)
