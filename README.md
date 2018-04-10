@@ -24,11 +24,18 @@
 * **SRM University (2013-2017)**
 
   * Bachelor of Technology in Computer Science Engineering 
-  * Jun 2013 - May 2017
+  * Jun. 2013 - May. 2017
   * CGPA: 8.7 out of 10
 
 * **SR Junior College (2011-2013)**
+
+  *  Mar. 2011 -  Mar. 2013
+  * Percentage 93 out of 100
+  
 * **Spectra Global Concept School (2010-2011)**
+
+  *  Mar. 2010 -  Mar. 2011
+  * Percentage 80 out of 100
 
 ## Work Experience 👨🏻‍💻
 
